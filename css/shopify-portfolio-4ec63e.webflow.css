@@ -1580,7 +1580,7 @@ figcaption {
 }
 
 .contact-form-text-field {
-	color: #fff;
+	color: black;
 	background-color: rgba(0, 0, 0, 0);
 	border: 1px #000;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.3);
